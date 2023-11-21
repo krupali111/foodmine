@@ -3,6 +3,7 @@
   "cli": {
     "analytics": "9929d30b-075f-42a7-8c6b-a2d2443b0924"
   },
+  
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
